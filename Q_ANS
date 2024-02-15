@@ -1,0 +1,35 @@
+Q1. What is event delegation, and how does it function in JavaScript?
+Q2. Can you provide an illustration of how ES6 has altered the approach to working with "this" in JavaScript?
+Q3. Explain the concept of prototypal inheritance.
+Q4. Differentiate between a variable that is null, undefined, or undeclared.
+Q5. Define what a closure is and describe its uses and advantages.
+Q6. Explain the primary distinction between the Array.forEach() loop and Array.map() method, as well as when to choose one over the other.(see polyfills also)
+Q7. What is a common scenario for employing anonymous functions?
+Q8. Distinguish between host objects and native objects.
+Q9. Clarify the distinctions among 'function User(){}', 'var user = User()', and 'var user = new User()
+Q10. Can you explain the purposes of Function.call and Function.apply, along with their notable differences?
+Q11. Describe the Function.prototype.bind method.
+Q12. Explain the differences between feature detection, feature inference, and utilizing the User Agent (UA) string.
+Q13. Define the concept of "hoisting."
+Q14. What is type coercion, and what are some common pitfalls associated with relying on it in JavaScript code?
+Q15. Describe event bubbling and event capturing.
+Q16. What distinguishes an "attribute" from a "property"?
+Q17. List the advantages and disadvantages of extending built-in JavaScript objects.
+Q18. Explain the differences between == and ===.
+Q19. Discuss the same-origin policy's implications for JavaScript.
+Q20. Why is it referred to as a "Ternary operator," and what does the term "Ternary" signify?
+Q21. Define strict mode and outline some of its advantages and disadvantages.
+Q22. Analyze the pros and cons of writing JavaScript code in a language that compiles to JavaScript.
+Q23. What tools and techniques do you employ for debugging JavaScript code?
+Q24. Enumerate the benefits and drawbacks of immutability and explain how you can achieve it in your code.
+Q25. Differentiate between synchronous and asynchronous functions and elucidate the event loop.
+Q26. Explain the disparities between variables created using let, var, or const.
+Q27. Compare ES6 classes and ES5 function constructors, and furnish a use case for the arrow (=>) function syntax.
+Q28. Describe the advantages of using the arrow syntax for methods in constructors.
+Q29. Define a higher-order function and provide an example of object or array destructuring.
+Q30. Give an example of generating a string using ES6 Template Literals and explain their benefits.
+Q31. Provide an example of a curry function and clarify why this syntax can be advantageous.
+Q32. Discuss the benefits of using spread syntax and differentiate it from rest syntax.
+Q33. Explain debounce vs throttling.
+Q34. Define what a promise is and describe its applications.
+Q35. Explore how Object-Oriented Programming (OOP) principles can be applied when coding in JavaScript.
